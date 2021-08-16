@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Denis Ricardo",
+      "email": "denis.cantero1987@gmail.com",
+      "telefono": "0986550235",
+      "empresa": "ServiWeb",
+      "id": 27
+    },
+    {
+      "nombre": "Thyago",
+      "email": "tiky@correo.com",
+      "telefono": "0982333666",
+      "empresa": "ServiWeb",
+      "id": 28
+    },
+    {
+      "nombre": "Perla Noemi Ovelar",
+      "email": "correo@correo.com",
+      "telefono": "0984670614",
+      "empresa": "Biggie",
+      "id": 29
+    }
+  ]
+}
